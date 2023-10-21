@@ -55,8 +55,3 @@ The Jupyter Notebook contains:
 ![Screenshot (33)](https://user-images.githubusercontent.com/64836894/134804196-caede5cf-f883-40b9-ae55-6c4abe4ed3a2.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/64836894/134804198-59f9bcf0-125c-4716-b139-ce3ad836502a.png)
 ![prediction ](https://user-images.githubusercontent.com/69135317/134804507-2e1637ea-d007-4fc2-836e-3ec0a6635126.png)
-
-## Video Explation for the project:
-
-https://user-images.githubusercontent.com/64836894/134806280-9133cd2c-5aee-4b22-b59e-2182dfc2479d.mp4
-
