@@ -1,4 +1,4 @@
-# **IBM z DATATHON**
+# **IBM z DATATHON Project - Crop Prediction**
 
 ## Description of project:
 
